@@ -1,4 +1,4 @@
-<img align="center" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70](https://makeagif.com/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst).gif">
+<img align="center" width="400" src="https://makeagif.com/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst.gif">
 <h1 align="center">Hi 👋, I'm JalpitParmar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
