@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalpitparmar&label=Profile%20views&color=0e75b6&style=flat" alt="jalpitparmar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jalpitparmar" target="blank"><img src="https://img.shields.io/twitter/follow/jalpitparmar?logo=twitter&style=for-the-badge" alt="jalpitparmar" /></a> </p>
+<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/jalpitparmar?logo=twitter&style=for-the-badge" alt="jalpitparmar" /></a> </p>
 
 - 🌱 I’m currently learning **MEARN , Android , Gamedev**
 
