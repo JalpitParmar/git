@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/jalpitparmar?logo=twitter&style=for-the-badge" alt="jalpitparmar" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN , Android , Gamedev**
+- 🌱 I’m currently learning **MERN , Android , Gamedev**
 
 - 📫 How to reach me **jalpitparmar1234@gmail.com**
 
